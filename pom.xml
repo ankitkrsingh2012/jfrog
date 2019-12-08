@@ -19,7 +19,7 @@
     <repository>
         <id>central</id>
         <name>LAPTOP-VN159MQ3-releases</name>
-        <url>http://localhost:8081/artifactory/libs-release-local</url>
+        <url>http://localhost:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
   <build>
